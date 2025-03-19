@@ -40,7 +40,6 @@ function elcleaner_enqueue_elementor_styles() {
         .e-ai-layout-button,
         .elementor-template-library-blank-footer,
         button[aria-label="What\'s New"],
-        .elementor-template-library-pro-template,
         .elementor-template-library-template-generate-variation,
         .elementor-add-new-section button:nth-of-type(3) {
             display: none !important;
